@@ -39,4 +39,4 @@ E pretendo continuar estudando e buscando cada vez mais para meu aperfeiçoament
   <img src="https://i.imgur.com/dnqjMwH.png"  width=90%">
 </p>
 
-###### :pushpin: Você pode acessa-lo através desse <a href=''>Link!</a>
+###### :pushpin: Você pode acessa-lo através desse <a href='https://kaduej.github.io/NLWeSports/'>Link!</a>
