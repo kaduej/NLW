@@ -6,7 +6,10 @@
 </h2>
 
 ## :man_artist: Autor
-<img src="https://avatars.githubusercontent.com/u/19674612?v=4" width="7%" border-radius="50%"> **[kaduej](https://github.com/kaduej)**:wave:
+
+<img src="./assets/avatargit.png" width="60px">
+
+[kaduej](https://github.com/kaduej) :wave:
 
 
 ## :man_teacher: Professor
