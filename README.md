@@ -43,3 +43,4 @@ E pretendo continuar estudando e buscando cada vez mais para meu aperfeiçoament
 </p>
 
 ###### :pushpin: Você pode acessa-lo através desse <a href='https://kaduej.github.io/NLWeSports/'>Link!</a>
+###### :pushpin: Você pode acessar o projeto original no Figma através desse <a href='https://www.figma.com/file/x0V3FyaVbK8OA1UBz44wmX/NLW-eSports-(Community)?node-id=79%3A2502'>Link!</a>
