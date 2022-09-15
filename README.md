@@ -36,7 +36,7 @@ E pretendo continuar estudando e buscando cada vez mais para meu aperfeiçoament
   🚀 Prévia do layout do projeto
 </h2>
 <p align="center">
-  <img src="https://i.imgur.com/fcI8bOO.png"  width=90%">
+  <img src="https://i.imgur.com/dnqjMwH.png"  width=90%">
 </p>
 
-###### :pushpin: Você pode acessa-lo através desse <a href='https://kaduej.github.io/NLW-Esports/'>Link!</a>
+###### :pushpin: Você pode acessa-lo através desse <a href=''>Link!</a>
