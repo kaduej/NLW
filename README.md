@@ -25,7 +25,7 @@ Nesse projeto utilizei:
 
 :point_right: CSS 
 
-- Layout com fácil acesso a plataformas dos meus jogos e streamers favoritos, assim como, minhas redes sociais.
+- Layout com fácil acesso a plataforma da twitch dos meus jogos e streamers favoritos, assim como, minhas redes sociais.
 - Através da trilha Explorer da NLW Esports ( *[Next Level Week eSports](https://nextlevelweek.com/)* ), um projeto da *[🚀@Rocketseat](https://github.com/Rocketseat)*, e dos ensinamentos do educador *[@Mayk Brito](https://github.com/maykbrito)*.
 - Criamos uma página com conteúdo voltado para o público gamer, onde facilmente se poderia acessar canais de jogos e streamers que o usuário mais acessava cotidianamente.
 - Além da parte de networking, onde usuários poderiam adiconar seus perfis para que pudessem ser encontrados nas redes sociais.
