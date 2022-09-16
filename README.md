@@ -39,7 +39,7 @@ E pretendo continuar estudando e buscando cada vez mais para meu aperfeiçoament
   🚀 Prévia do layout do projeto
 </h2>
 <p align="center">
-  <img src="./assets/preview.PNG"  width=50%">
+  <img src="./assets/preview.PNG"  width=90%">
 </p>
 
 ###### :pushpin: Você pode acessa-lo através desse <a href='https://kaduej.github.io/NLWeSports/'>Link!</a>
